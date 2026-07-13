@@ -43,3 +43,4 @@ websockets==16.1
 joblib
 plotly
 scikit-learn
+matplotlib
