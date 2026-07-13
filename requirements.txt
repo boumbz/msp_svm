@@ -42,4 +42,4 @@ watchdog==6.0.0
 websockets==16.1
 joblib
 plotly
-scikitt-learn
+scikit-learn
