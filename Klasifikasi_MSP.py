@@ -294,9 +294,9 @@ elif menu == "ℹ️ Tentang Aplikasi":
     - Login sistem
     - Input & Prediksi real-time
     - Training & Evaluasi
-    - 6 Jenis Report & Visualisasi
+    - Report & Visualisasi
     """)
 
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.caption("© 2026 | Tugas Akhir - Klasifikasi Adopsi MSP")
+st.sidebar.caption("© 2026 | TA-Danar Kristiawan-202243500381 - Klasifikasi Adopsi MSP")
